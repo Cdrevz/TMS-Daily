@@ -1,0 +1,4 @@
+xlsxwriter
+pandas
+polars
+openpyxl
