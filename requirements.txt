@@ -3,3 +3,4 @@ pandas
 polars
 openpyxl
 fastexcel
+streamlit
