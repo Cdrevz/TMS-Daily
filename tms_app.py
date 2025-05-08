@@ -57,8 +57,8 @@ TERM_MAPPING = {
 }
 
 # Streamlit UI
-st.title("Shift Schedule Processor")
-st.subheader("Upload and process shift schedules")
+st.title("Daily TMS Schedule Processor")
+st.subheader("Upload Excel file")
 
 # Time adjustment settings
 time_adjustment = st.radio(
